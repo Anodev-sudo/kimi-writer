@@ -216,9 +216,15 @@ The agent automatically compresses context at 180K tokens. If you see compressio
 
 ## License
 
-This project uses the Moonshot AI API. Please refer to Moonshot AI's terms of service for API usage guidelines.
+MIT License with Attribution Requirement - see [LICENSE](LICENSE) file for details.
+
+**Commercial Use**: If you use this software in a commercial product, you must provide clear attribution to Pietro Schirano (@Doriandarko).
+
+**API Usage**: This project uses the Moonshot AI API. Please refer to Moonshot AI's terms of service for API usage guidelines.
 
 ## Credits
 
-Built with the kimi-k2-thinking model from Moonshot AI.
+- **Created by**: Pietro Schirano ([@Doriandarko](https://github.com/Doriandarko))
+- **Powered by**: Moonshot AI's kimi-k2-thinking model
+- **Repository**: https://github.com/Doriandarko/kimi-writer
 
